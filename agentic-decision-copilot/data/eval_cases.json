@@ -1,0 +1,28 @@
+[
+  {
+    "id": "build_vs_wait",
+    "decision": "Should a product team build an internal AI support assistant now or wait six months?",
+    "expected": {
+      "must_discuss": [
+        "benefit",
+        "cost",
+        "risk",
+        "uncertainty",
+        "next action"
+      ]
+    }
+  },
+  {
+    "id": "pilot_vs_rollout",
+    "decision": "Should we pilot a new workflow at one site before a network-wide rollout?",
+    "expected": {
+      "must_discuss": [
+        "learning",
+        "speed",
+        "risk",
+        "scale",
+        "next action"
+      ]
+    }
+  }
+]
